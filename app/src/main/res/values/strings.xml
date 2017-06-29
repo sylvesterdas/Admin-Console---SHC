@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Admin Console</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_news">Hello News fragment</string>
+    <string name="hello_blank_fragment_events">Hello Events fragment</string>
+    <string name="add_news">Add news</string>
+    <string name="add_events">Add events</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="write_here">Write here...</string>
+</resources>
